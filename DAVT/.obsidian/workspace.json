@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0be97eb69013c6de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3f4033d7fbe8ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7642429c2ab1833",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18417718c3bd53d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4519a00307e51af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b17eae8b4429ece9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e3f46f132e82315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ea6c6c42ad028b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "280991ba439c7aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b41f9a914d7aa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4131e5ce16a6ce27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a84b8eab0f3d15e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd993fbe7c82c686",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af17be6fd9673132",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7642429c2ab1833",
+  "lastOpenFiles": [
+    "Digital AV Technology.md",
+    "quantizing.md",
+    "Untitled Kanban.md",
+    "pulse-code modulation.md",
+    "Information flow.canvas",
+    "How can information be transferred?.md",
+    "signal.md",
+    "signals.md",
+    "modulation.md",
+    "codec.md",
+    "sampling.md",
+    "data.md",
+    "system.md",
+    "information.md",
+    "digital.md",
+    "analog.md"
+  ]
+}

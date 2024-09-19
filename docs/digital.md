@@ -1,0 +1,1 @@
+Digital is the opposite of [[analog]]. Digital refers to something discrete. A digital [[signal]] has discrete values at discrete time steps which result from [[sampling]] an [[analog]] [[signal]]. 

@@ -1,0 +1,1 @@
+**Pulse-code modulation (PCM)** is a method used to [[digital]]ly represent [[analog]] [[signal]]s. It involves [[sampling]] the [[signal]] at regular intervals and then converting each sample into a binary code. PCM is commonly used in [[digital]] audio systems to accurately capture and reproduce sound by [[quantizing]] the amplitude of the signal into discrete [[data]] points.

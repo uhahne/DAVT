@@ -1,0 +1,1 @@
+**Information** is [[data]] that is processed or structured in a way that has meaning and can be understood or transmitted. In [[digital]] terms, a **bit** (short for "binary digit") is the smallest unit of [[information]], representing a value of either **0** or **1**. The number of bits used in a [[system]] determines how much information can be represented.

@@ -1,4 +1,3 @@
-# Digital AV technology
 This is a course overview and glossary for "Digitale AV Technik". Created in September 2024 by [Prof. Uwe Hahne](mailto:uwe.hahne@hs-furtwangen.de)
 
 ## Course plan
@@ -54,14 +53,4 @@ After the course the following questions should be answerable by all participant
 - Why is 48 kHz used in professional video equipment?
 - What does it mean to use 16 bit for samples?
 - What is [[pulse-code modulation]]?
-- Why is Netflix using the AV1 codec?# Obsidian Notes
-
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- Why is Netflix using the AV1 codec?

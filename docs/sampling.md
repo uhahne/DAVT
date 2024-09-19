@@ -1,0 +1,1 @@
+Sampling is the process of reading values from an [[analog]] signal over time. 

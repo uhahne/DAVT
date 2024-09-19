@@ -1,0 +1,1 @@
+The opposite of [[digital]]. An analog signal has a time-varying feature that maps to another quantity. It is continuous in both time and value. So for every time there is another value. This can be e.g. the voltage.

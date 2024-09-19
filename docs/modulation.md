@@ -1,0 +1,1 @@
+**Modulation** refers to the process of altering one or more properties of a [[signal]]—such as its amplitude, frequency, or phase—in order to encode [[information]] onto it. This is commonly used in communication systems to transmit [[data]] over various mediums, allowing for efficient transmission of audio, video, or other forms of [[information]].

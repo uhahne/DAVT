@@ -1,0 +1,3 @@
+Data refers to raw, unprocessed facts or measurements that represent information. In [[digital]] systems, data is typically in the form of binary values (0s and 1s), which can be processed, stored, and transmitted. [[Data]] becomes meaningful when it is structured and interpreted, turning it into [[information]].
+
+[[digital]] data is represented using binary code, a system of two possible values: **0** and **1**. Each binary digit, or **bit**, is a fundamental unit of digital [[information]]. Multiple bits combine to form larger units such as bytes, kilobytes, or megabytes, allowing complex information like images, videos, and audio to be stored.

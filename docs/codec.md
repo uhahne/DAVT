@@ -1,0 +1,1 @@
+A **codec** is a software or hardware tool used to **encode** or **decode** [[digital]] [[data]], particularly audio or video. **Encoding** compresses data to reduce file size, while **decoding** restores the data for playback or editing. Different codecs balance quality, file size, and processing requirements.

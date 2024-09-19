@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"efb0dfb781f12be0","x":-265,"y":-320,"width":250,"height":60,"type":"text","text":"Audio sources"},
+		{"id":"029000168371be4c","x":-200,"y":-220,"width":120,"height":60,"type":"text","text":"Human"},
+		{"id":"827c6bfb86770618","x":-265,"y":-120,"width":250,"height":50,"type":"text","text":"Music instruments"}
+	],
+	"edges":[]
+}
