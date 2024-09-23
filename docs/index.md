@@ -4,9 +4,9 @@ This is a course overview and glossary for "Digitale AV Technik". Created in Sep
 ## Course plan
 
 See German pages:
-[[Inhalte]]
-[[Aufgaben]]
-[[Links]]
+- [[Inhalte]]
+- [[Aufgaben]]
+- [[Links]]
 
 ## Basic outline
 The following topics will be included:
