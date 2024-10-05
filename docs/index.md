@@ -7,6 +7,7 @@ See German pages:
 - [[Inhalte]]
 - [[Aufgaben]]
 - [[Links]]
+- [[Vorlesungen]]
 
 ## Basic outline
 The following topics will be included:
