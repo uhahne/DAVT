@@ -6,11 +6,11 @@ Klarheit, wie im Kurs gearbeitet werden soll.
 
 ### Drehbuch
 
-| Was                         | Dauer  | Material                      |
-| --------------------------- | ------ | ----------------------------- |
-| Begrüßung und Vorstellung   | 15 min | ![[DAVT-01-Introduction.pdf]] |
-| Inhaltsübersicht            | 5 min  | [[DAVT-01-Introduction.pdf]]  |
-| Aufgabenblatt 01 - Mind map | 70 min | [[DAVT-Aufgabenblatt01.pdf]]  |
+| Was                         | Dauer  | Material                     |
+| --------------------------- | ------ | ---------------------------- |
+| Begrüßung und Vorstellung   | 15 min | [[DAVT-01-Introduction.pdf]] |
+| Inhaltsübersicht            | 5 min  | [[DAVT-01-Introduction.pdf]] |
+| Aufgabenblatt 01 - Mind map | 70 min | [[DAVT-Aufgabenblatt01.pdf]] |
 
 ### Ergebnisse
 #### Mindmaps
@@ -43,11 +43,12 @@ Grundbegriffe klären: [[system]], [[signal]], Kommunikation, Nachricht, Codieru
 
 | Was                          | Dauer  | Material                                                                                                                                                          |
 | ---------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Impulsvortrag zu Systemen    | 20 min | ![[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                   |
+| Impulsvortrag zu Systemen    | 20 min | [[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                    |
 | Höraufgabe                   | 20 min | Es wird eine [Tonaufnahme](https://einstein-website.de/tondokument/) abgespielt und wir versuchen den Informationsfluss so detailliert wie möglich aufzuzeichnen. |
 | Impulsvortrag zu Signalen    | 20 min | [[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                    |
 | Textaufgabe                  | 20 min | [[DAVT-Aufgabenblatt02.pdf]]                                                                                                                                      |
 | Signalfunktionen und Wrap-Up | 10 min | [[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                    |
+
 ### Ergebnisse
 nur bis zur Textaufgabe gekommen...
 #### Tafelbild zur Höraufgabe
