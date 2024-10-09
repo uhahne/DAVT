@@ -37,10 +37,17 @@ Special effects (VFX/SFX) sind weniger Teil dieser Vorlesung, aber Interesse ist
 Mittwoch, 09.10.2024 in Raum L2.05a
 ### Ziele
 Historische Übersicht zur Digitaltechnologie
-Grundbegriffe klären: System, Signal, Kommunikation, Nachricht, Codierung, ...
+Grundbegriffe klären: [[system]], [[signal]], Kommunikation, Nachricht, Codierung, ...
 
 ### Drehbuch
+
+| Was                          | Dauer  | Material                                                                                                                                                          |
+| ---------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Impulsvortrag zu Systemen    | 20 min | ![[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                   |
+| Höraufgabe                   | 20 min | Es wird eine [Tonaufnahme](https://einstein-website.de/tondokument/) abgespielt und wir versuchen den Informationsfluss so detailliert wie möglich aufzuzeichnen. |
+| Impulsvortrag zu Signalen    | 20 min | [[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                    |
+| Textaufgabe                  | 20 min | [[DAVT-Aufgabenblatt02.pdf]]                                                                                                                                      |
+| Signalfunktionen und Wrap-Up | 10 min | [[DAVT-02-SignaleSysteme.pdf]]                                                                                                                                    |
+### Ergebnisse
 tbd
-
-
 

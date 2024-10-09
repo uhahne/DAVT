@@ -1,6 +1,7 @@
 A signal is both the process and result of transmission of data over some media. It is accomplished by embedding some variation.
 
 Definitions specific to sub-fields are common:
+- In applied mathematics, a signal is a function mapping from the time domain to some codomain which can be anything that is measurable.
 - In electronics and telecommunications, signal refers to any time-varying voltage, current, or electromagnetic wave that carries information.
 - In signal processing, signals are analog and digital representations of analog physical quantities.
 - In information theory, a signal is a codified message, that is, the sequence of states in a communication channel that encodes a message.
