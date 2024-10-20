@@ -185,4 +185,22 @@ Code zur Berechnung der Entropie einer Nachricht:
 
 
 
-  
+## Vierter Termin
+Mittwoch, 23.10.2024 in Raum L2.05a
+### Ziele
+Entropie und Redundanz verstehen
+Anwendung der Informationstheorie: Kompression und Fehlerkorrektur
+Hamming Codes verstehen und implementieren können
+
+### Drehbuch
+
+| Was                                                      | Dauer  | Material                                   |
+| -------------------------------------------------------- | ------ | ------------------------------------------ |
+| Wiederholung und Ergänzung Entropie                      | 5 min  | [[DAVT-03-Information.pdf]] Folien 12 - 15 |
+| Übungsaufgabe                                            | 25 min | [[DAVT-Aufgabenblatt03.pdf]]               |
+| Informationstheorie: Was bedeutet Redundanz? Anwendungen | 30 min | [[DAVT-03-Information.pdf]] Folien 16ff    |
+| Einstieg in die Kompression                              | 30 min | tbd                                        |
+|                                                          |        |                                            |
+
+### Ergebnisse
+tbd
