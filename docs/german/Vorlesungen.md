@@ -1,8 +1,10 @@
 ## Erster Termin
+
 Mittwoch, 02.10.2024 in Raum L2.05a
 ### Ziele
-Übersicht bekommen, was die Themen des Kurses sind.
-Klarheit, wie im Kurs gearbeitet werden soll.
+
+- Übersicht bekommen, was die Themen des Kurses sind.
+- Klarheit, wie im Kurs gearbeitet werden soll.
 
 ### Drehbuch
 
@@ -42,11 +44,12 @@ Es sind Grundkenntnisse aus den Video- und Audiotechnik Vorlesungen vorhanden, d
 Special effects (VFX/SFX) sind weniger Teil dieser Vorlesung, aber Interesse ist da und mögliche Verbindungen werden aufgezeigt.
 
 ## Zweiter Termin
+
 Mittwoch, 09.10.2024 in Raum L2.05a
 ### Ziele
-Historische Übersicht zur Digitaltechnologie
 
-Grundbegriffe klären: [[system]], [[signal]], Kommunikation, Nachricht, Codierung, ...
+- Historische Übersicht zur Digitaltechnologie
+- Grundbegriffe klären: [[system]], [[signal]], Kommunikation, Nachricht, Codierung, ...
 
 ### Drehbuch
 
@@ -108,10 +111,12 @@ Schätzungen zum Erscheinungsjahr des Texts:
 Im Schnitt ungefähr 2002 --> Ursprung des Texts: [Alan Oppenheim (MIT) Lecture on digital signal processing from 1975](https://youtu.be/rkvEM5Y3N60?feature=shared&t=59)
 
 ## Dritter Termin
+
 Mittwoch, 16.10.2024 in Raum L2.05a
 ### Ziele
-Signale als Funktionen
-Informationstheorie: Was ist ein Bit?
+
+- Signale als Funktionen
+- Informationstheorie: Was ist ein Bit?
 
 ### Drehbuch
 
@@ -186,10 +191,12 @@ Code zur Berechnung der Entropie einer Nachricht:
 
 
 ## Vierter Termin
+
 Mittwoch, 23.10.2024 in Raum L2.05a
 ### Ziele
-Entropie und Redundanz verstehen
-Anwendung der Informationstheorie: Kompression und Fehlerkorrektur
+
+- Entropie und Redundanz verstehen
+- Anwendung der Informationstheorie: Kompression und Fehlerkorrektur
 
 ### Drehbuch
 
@@ -264,9 +271,11 @@ In diese Codierung wird für das A nur ein Bit verwendet. Durch seine erhöhte H
 In der nächsten Vorlesung wird dann ein Algorithmus gesucht, der immer den optimalen Code erzeugt.
 
 ## Fünfter Termin
+
 Mittwoch, 30.10.2024 in Raum L2.05a
 ### Ziele
-Algorithmus zur Erzeugung optimaler Binärcodes
+
+- Algorithmus zur Erzeugung optimaler Binärcodes
 
 
 ### Drehbuch
