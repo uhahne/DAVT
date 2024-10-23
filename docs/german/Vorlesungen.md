@@ -203,6 +203,10 @@ Anwendung der Informationstheorie: Kompression und Fehlerkorrektur
 
 ### Ergebnisse
 
+Wir haben das [Shannon-Weaver Modell](https://en.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model) eingeführt und betrachten die praktischen Anwendungen im Bereich der AV-Technik im Folgenden anhand des Modells.
+
+![[Sender-Empfänger-Modell_nach_Shannon_und_Weaver.jpg]]
+
 Es gibt im wesentlichen zwei Herausforderungen für die Kodierung von Signalen:
 
 | *Herausforderung* | **Kompression**                                                                                                                                                    | **Fehlerkorrektur**                                                                |
