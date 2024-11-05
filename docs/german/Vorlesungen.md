@@ -287,9 +287,12 @@ Mittwoch, 30.10.2024 in Raum L2.05a
 | Encoding und Decoding                        | 10 min | [[DAVT-04-Codierung.pdf]] Folie 24-28  |
 | Codierung des Huffman Baums                  | 10 min | [[DAVT-04-Codierung.pdf]] ab Folie 29  |
 | Üben des Gelernten                           | 15 min | [[DAVT-Aufgabenblatt04.pdf]]           |
+
 #### Erarbeiteter Quellcode
+
 Shannon-Fano Coding:
 ![[fano.py]]
+
 Huffman Coding:
 ![[huffman.py]]
 
@@ -310,7 +313,9 @@ Mittwoch, 6.11.2024 in Raum L2.05a
 | Arithmetische Codierung - Decoding                               | 20 min | [[DAVT-05-ArithmetischeCodierung.pdf]] bis Folie 21         |
 | Arithmetische Codierung - Implementierung                        | 20 min | [[DAVT-05-ArithmetischeCodierung.pdf]] bis Ende, sowie Code |
 | Üben des Gelernten                                               | 15 min | [[DAVT-Aufgabenblatt05.pdf]]                                |
+
 #### Erarbeiteter Quellcode
+
 ![[arithmeticCoding.py]]
 
 ### Empfehlenswerte Quellen
