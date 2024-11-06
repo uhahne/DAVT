@@ -314,6 +314,16 @@ Mittwoch, 6.11.2024 in Raum L2.05a
 | Arithmetische Codierung - Implementierung                        | 20 min | [[DAVT-05-ArithmetischeCodierung.pdf]] bis Ende, sowie Code |
 | Üben des Gelernten                                               | 15 min | [[DAVT-Aufgabenblatt05.pdf]]                                |
 
+#### Tafelbilder
+
+Encoding 
+![[DAVT-06-encode.jpeg]]
+
+Einschub binäre Kommazahlen
+![[DAVT-06-binary_floats.jpeg]]
+
+Dekodierung
+![[DAVT-06-decode.jpeg]]
 #### Erarbeiteter Quellcode
 Code mit absoluten Häufigkeiten und End-of-message Zeichen:
 [arithmeticCoding.py](../../code/arithmeticCoding.py)
