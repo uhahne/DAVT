@@ -333,3 +333,27 @@ Code mit relativen Häufigkeiten und angegebener Nachrichtenlänge:
 ### Empfehlenswerte Quellen
 - [# (IC 5.2) Arithmetic coding - Example #1](https://www.youtube.com/watch?v=7vfqhoJVwuc&list=PLE125425EC837021F&index=43) von [mathematicalmonk](https://www.youtube.com/@mathematicalmonk)
 - [Blogartikel und Code von Ahmet Gad, Neptune.ai](https://neptune.ai/blog/lossless-data-compression-using-arithmetic-encoding-in-python-and-its-applications-in-deep-learning)
+
+
+## Siebter Termin
+
+
+Mittwoch, 13.11.2024 in Raum L2.05a
+
+### Ziele
+
+- Verlustfreie Kompressionsmethoden kennen lernen und verstehen
+- Wo kommen diese Methoden zum Einsatz?
+
+
+### Drehbuch
+
+| Was                                            | Dauer  | Material                                 |
+| ---------------------------------------------- | ------ | ---------------------------------------- |
+| Lauflängenkodierung, Run-length encoding (RLE) | 15 min | [[DAVT-06-Kompression.pdf]] bis Folie 8  |
+| LZ77                                           | 25 min | [[DAVT-06-Kompression.pdf]] bis Folie 15 |
+| LZ78                                           | 20 min | [[DAVT-06-Kompression.pdf]] bis Folie 20 |
+| LZW                                            | 20 min | [[DAVT-06-Kompression.pdf]] bis Folie 24 |
+| Zusammenfassung und Ausblick                   | 10 min | [[DAVT-06-Kompression.pdf]] bis Ende     |
+
+#### Tafelbilder
