@@ -357,3 +357,41 @@ Mittwoch, 13.11.2024 in Raum L2.05a
 | Zusammenfassung und Ausblick                   | 10 min | [[DAVT-06-Kompression.pdf]] bis Ende     |
 
 #### Tafelbilder
+
+![[DAVT-07-Differenzen.JPEG]]
+Die Idee bei der Codierung die Differenzen zu nehmen, anstatt der eigentlichen Werte. Das bietet sich vor allem bei der Videokompression an.
+
+![[DAVT-07-LZ77.JPEG]]
+
+![[DAVT-07-LZ78.JPEG]]
+
+![[DAVT-07-LZW.JPEG]]
+
+Die verschiedenen, aber sehr ähnlichen Kompressionsverfahren an der Tafel bzw. am Whiteboard.
+
+
+## Achter Termin
+
+
+Mittwoch, 20.11.2024 in Raum L2.05a
+
+### Ziele
+
+- Verlustbehaftete Kompressionsmethoden kennen lernen und verstehen
+	- z.B. JPEG und MPEG
+- Wo kommen diese Methoden zum Einsatz?
+
+
+### Drehbuch
+
+| Was                           | Dauer  | Material                     |
+| ----------------------------- | ------ | ---------------------------- |
+| Vorstellung der Gruppenarbeit | 10 min | [[DAVT-Aufgabenblatt06.pdf]] |
+| Arbeit in Kleingruppen        | 45 min | [[DAVT-Aufgabenblatt06.pdf]] |
+| Präsentation der Ergebnisse   | 25 min |                              |
+| Zusammenfassung und Ausblick  | 10 min |                              |
+
+#### Ergebnisse aus den Gruppen
+
+
+#### Tafelbilder
