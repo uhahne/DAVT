@@ -7,3 +7,4 @@
 [[Vorlesung 07 - Verlustfreie Kompression]]
 [[Vorlesung 08 - Verlustbehaftete Kompression]]
 [[Vorlesung 09 - Videostreaming und Video-Codecs]]
+[[Vorlesung 10 - Video Codecs in der Praxis]]
