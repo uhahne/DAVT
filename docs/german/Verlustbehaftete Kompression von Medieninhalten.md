@@ -102,23 +102,14 @@ Rohdaten werden in einen anderen mathematischen Raum überführt, in dem sie ein
 
 #### Vor- und Nachteile der verlustbehafteten Kompression
 
-  
-
-| **Vorteile** | **Nachteile** |
-
-|--------------------------------------------------|---------------------------------------------------|
-
-| Reduktion der Datenmenge (bis zu 90 % oder mehr) | Qualitätsverlust, der je nach Bitrate sichtbar/hörbar sein kann |
-
-| Effiziente Übertragung großer Datenmengen | Artefakte bei starker Kompression |
-
-| Breite Anwendung in Medienstandards (JPEG, MP3, H.264) | Irreversible: Ursprüngliche Daten nicht rekonstruierbar |
-
+| **Vorteile**                                           | **Nachteile**                                                   |
+| ------------------------------------------------------ | --------------------------------------------------------------- |
+| Reduktion der Datenmenge (bis zu 90 % oder mehr)       | Qualitätsverlust, der je nach Bitrate sichtbar/hörbar sein kann |
+| Effiziente Übertragung großer Datenmengen              | Artefakte bei starker Kompression                               |
+| Breite Anwendung in Medienstandards (JPEG, MP3, H.264) | Irreversible: Ursprüngliche Daten nicht rekonstruierbar         |
   
 
 ---
-
-  
 
 #### Grenzen der verlustbehafteten Kompression
 
@@ -133,8 +124,6 @@ Rohdaten werden in einen anderen mathematischen Raum überführt, in dem sie ein
   
 
 ---
-
-  
 
 #### Zusammenfassung
 

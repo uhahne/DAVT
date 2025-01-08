@@ -1,3 +1,4 @@
-| Link                       | Autor              | Beschreibung                                                                           | Hinzugefügt am |
-| -------------------------- | ------------------ | -------------------------------------------------------------------------------------- | -------------- |
-| https://www.bet.de/lexikon | BET Michael Mücher | Ein Onlinelexikon mit sehr aktuellen, praxisnahen Erklärungen relevanter Fachbegriffe. | 2024-09-23     |
+| Link                                                                    | Autor              | Beschreibung                                                                                                                                | Hinzugefügt am |
+| ----------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| https://www.bet.de/lexikon                                              | BET Michael Mücher | Ein Onlinelexikon mit sehr aktuellen, praxisnahen Erklärungen relevanter Fachbegriffe.                                                      | 2024-09-23     |
+| https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs | Mozilla            | Ein ausführlicher Artikel aus des [mdn web docs](https://developer.mozilla.org/en-US/), also den Hilfeseiten für Webentwickler von Mozilla. | 2025-01-06     |
