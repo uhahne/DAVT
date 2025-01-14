@@ -1,4 +1,4 @@
-## Zehnter Termin
+## Elfter Termin
 
 
 Mittwoch, 08.01.2025 in Raum L2.05a
@@ -27,5 +27,14 @@ Mittwoch, 08.01.2025 in Raum L2.05a
 
 #### Ergebnisse 
 
+Aufgabenblatt als Hausaufgabe
 
 #### Tafelbilder
+
+
+#### Terminplanung
+
+15.1. Reed-Solomon + Turbocodes
+22.1. GenAI (GAN, StableDiffusion, text2video)
+05.02. ab 14 Uhr Klausurvorbereitung
+  
