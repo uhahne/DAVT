@@ -17,3 +17,7 @@
 [[Vorlesung 09 - Videostreaming und Video-Codecs]]
 
 [[Vorlesung 10 - Video Codecs in der Praxis]]
+
+[[Vorlesung 11 - Fehlerkorrektur]]
+
+[[Vorlesung 12 - Fehlerkorrektur (Teil 2)]]
