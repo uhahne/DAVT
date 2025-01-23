@@ -1,4 +1,4 @@
-## Dritter Termin
+#### Termin
 
 Mittwoch, 16.10.2024 in Raum L2.05a
 ### Ziele

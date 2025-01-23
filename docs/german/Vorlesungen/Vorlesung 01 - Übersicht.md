@@ -1,4 +1,4 @@
-## Erster Termin
+#### Termin
 
 Mittwoch, 02.10.2024 in Raum L2.05a
 ### Ziele

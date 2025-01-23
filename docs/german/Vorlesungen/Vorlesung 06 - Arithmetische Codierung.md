@@ -1,4 +1,4 @@
-## Sechster Termin
+#### Termin
 
 Mittwoch, 6.11.2024 in Raum L2.05a
 ### Ziele

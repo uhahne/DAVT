@@ -1,4 +1,4 @@
-## Zweiter Termin
+#### Termin
 
 Mittwoch, 09.10.2024 in Raum L2.05a
 ### Ziele

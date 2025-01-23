@@ -1,5 +1,4 @@
-## Zwölfter Termin
-
+#### Termin
 
 Mittwoch, 15.01.2025 in Raum L2.05a
 

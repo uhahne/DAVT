@@ -1,4 +1,4 @@
-## Fünfter Termin
+#### Termin
 
 Mittwoch, 30.10.2024 in Raum L2.05a
 ### Ziele
