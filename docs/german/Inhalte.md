@@ -1,52 +1,37 @@
-## Lernfragen zu den einzelnen Themen:
-### Digitalisierung
+## Lernfragen zu den einzelnen Themen
+Diese Liste wurde vor der Klausur anhand der tatsächlich behandelten Themen überarbeitet und angepasst.
+### Signale und Systeme
 Was bedeuten digital und analog? Was ist ein Signal? Wie unterscheiden sich analoge und digitale Signale?
 
-Wie werden Signale übertragen? Und was ist eigentlich Kommunikation? Was bedeutet digitale Signalübertragung? Was ist eine elektromagnetische Welle? Was ist Modulation? Was ist eine Trägerfrequenz?
+Wie werden Signale übertragen? Und was ist eigentlich Kommunikation? Was bedeutet digitale Signalübertragung?
 
-Wie wandelt man ein analoges Signal in ein digitales um? Wann und wie wird ein digitales Signal in ein analoges umgewandelt? Was ist der Dirac-Impuls?
+Wie kann ein Signal oder eine Funktion verändert werden? Wie wirkt es sich bei Audiosignalen aus?
 
-Was unterscheidet digitale Signale von Daten? Wie speichert man digitale Daten? Was ist Information? Was ist eigentlich ein Bit? Was bedeutet Informationsgehalt?
+Was unterscheidet digitale Signale von Daten? Wie speichert man digitale Daten? Wie unterscheidet sich Datenspeicherung von Datenübertragung in der Kommunikationstheorie?
 
-Was bedeutet Codierung? Was gibt es für Codes und Codierungsverfahren? Wie können Daten und Signale allgemein komprimiert werden?
+### Informationstheorie und Codierung
+Was ist Information? Was ist eigentlich ein Bit? Was bedeutet Informationsgehalt?
+Was ist Entropie und wie berechnet man sie?
 
-### Native Audio- und Videosignale
-Was sind native Signale? Was sind Vor- und Nachteile? Wann und warum werden sie verwendet?
+Was bedeutet Codierung? Was gibt es für Codes und Codierungsverfahren? Wie können Daten und Signale allgemein codiert werden?
 
-Wie werden sie übertragen? Welche Herausforderungen bringt das mit sich? Welche Standards gibt es und welche sind etabliert in welchen Anwendungen?
+Wie haben Fano und Shannon Codes erzeugt? Was sind Huffman-Codes? Wie funktioniert es algorithmisch? Welche Rolle spielt die Wahrscheinlichkeit? Was ist arithmetisch Codierung?
 
-### Digitale Bildformate
-Welche Formate gibt es für Bilder, Video und Audio? Welche Eigenschaften haben die einzelnen Formate? Welche Gemeinsamkeiten und Unterschiede gibt es? Welche kommen wann und wo in der Praxis zum Einsatz?
-
-Wie funktioniert die Datenkompression bei Bildern? Welche Methoden kommen in welchem Format zum Einsatz?
-  
-### Datenformate im Medienbereich
-Welche Daten entstehen in Medienproduktionen? Wie und wo werden sie gespeichert oder übertragen?
+### Kompression
+Was bedeutet Kompression? Warum wird sie insbesondere bei Videos benötigt? Was ist der Unterschied zwischen verlustfreier und verlustbehafteter Kompression?
 
 Wie unterscheiden sich Dateiformate von Streamingformaten? Was muss man bei der Kompression beachten? 
 
-Welche Formate gibt es und wo werden sie verwendet? Welche Vor- und Nachteile haben die einzelnen Formate?  
+Was ist ein Codec? Wofür wird er verwendet? Welche Codecs, Container und Formate gibt es und wo werden sie verwendet? Wie verbreitet sind die einzelnen Codecs und Formate? Welche Vor- und Nachteile haben die einzelnen Formate und Codecs?
 
-### Digitale Signalverarbeitung Audio
-Welche Ziele hat die Signalverarbeitung im Audiobereich? Wann findet welche Verarbeitung statt?
+Wie arbeitet ein Codec und erreicht so starke Kompressionsraten ohne Qualitätsverlust?
 
-Was ist die theoretische, mathematische Grundlage der Signalverarbeitung? Was macht die Fourier-Transformation? Wie unterscheiden sich DFT, DCT und FFT?
+### Fehlerkorrektur
+Wie kann man Fehler bei der Datenübertragung erkennen? Wie kann man sie korrigieren?
 
-Inwiefern unterscheidet sich digitale Signalverarbeitung von analoger Signalverarbeitung?
-  
-### Digitale Signalverarbeitung Video
-Welche Ziele hat die Signalverarbeitung im Videobereich? Wann findet welche Verarbeitung statt?
+Wie funktionieren Hamming-Codes? Was steckt hinter Reed-Solomon-Codes? Welche Verfahren werden in der Praxis angewendet?
 
-Was unterscheidet ein Videosignal von einem Audiosignal? Welche Unterschiede und Gemeinsamkeiten gibt es?  
+### Künstliche Intelligenz
+Welche Verfahren zur Erzeugung von Medien gibt es aktuell? Wie unterscheiden sich GANs von Diffusionsprozessen?
 
-### Media-Encoder und Decoder (Codecs)
-Was ist ein Codec? Wofür wird er verwendet?
 
-Welche Codecs gibt es und wie sind sie verbreitet? Wer verwendet welche Codecs und warum?
-
-Welche Standards gibt es und wie implementiert man einen Codec?
-
-### Display- und Projektionstechnologien
-Schon aus Videotechnik bekannt: Wie funktionieren moderne Displays? Was ist der Unterschied zwischen LCD, OLED, Plasma usw? Wo kommen Displays zum Einsatz? Welche Eigenschaften hat ein Display und welche Kriterien muss es erfüllen?
-
-Was gibt es für Projektionstechnologien? Welche werden im Konsumbereich, welche im professionellen Bereich eingesetzt?

@@ -34,3 +34,6 @@ Code mit relativen Häufigkeiten und angegebener Nachrichtenlänge:
 ### Empfehlenswerte Quellen
 - [# (IC 5.2) Arithmetic coding - Example #1](https://www.youtube.com/watch?v=7vfqhoJVwuc&list=PLE125425EC837021F&index=43) von [mathematicalmonk](https://www.youtube.com/@mathematicalmonk)
 - [Blogartikel und Code von Ahmet Gad, Neptune.ai](https://neptune.ai/blog/lossless-data-compression-using-arithmetic-encoding-in-python-and-its-applications-in-deep-learning)
+
+### Was man verstanden haben sollte
+- Ich habe das Prinzip der arithmetischen Codierung verstanden und kann bei gegebenen Wahrscheinlichkeiten einen arithmetischen Code erzeugen und auch decodieren.

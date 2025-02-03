@@ -24,3 +24,7 @@ Shannon-Fano Coding:
 Huffman Coding:
 [huffman.py](../../code/huffman.py)
 
+### Was man verstanden haben sollte
+- Ich bin in der Lage ein einfaches Textbeispiel nach dem Algorithmus von Shannon-Fano oder nach Huffman zu codieren.
+- Ich habe den Code zu beiden Algorithmen verstanden und kann ihn nachvollziehen.
+- Ich habe verstanden, dass eine kanonische Darstellung sinnvoll ist, um redundante Informationen zu vermeiden. Sender und Empfänger einigen sich auf eine Sortierung. 

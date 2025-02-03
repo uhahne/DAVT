@@ -64,3 +64,9 @@ Schätzungen zum Erscheinungsjahr des Texts:
 ![[DAVT-02-YearGuesses.jpeg]]
 
 Im Schnitt ungefähr 2002 --> Ursprung des Texts: [Alan Oppenheim (MIT) Lecture on digital signal processing from 1975](https://youtu.be/rkvEM5Y3N60?feature=shared&t=59)
+
+#### Was man verstanden haben sollte
+- Ich weiß was ein System ist und kann es für eine gegebene Situation skizzieren. 
+- Ich habe den Begriff Signal und seine unterschiedlichen Bedeutungen verstanden.
+- Ich weiß was eine Funktion ist und kann zwischen diskreten und kontinuierlichen Funktionen unterscheiden.
+- 

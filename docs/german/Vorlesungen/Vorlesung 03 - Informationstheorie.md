@@ -76,3 +76,8 @@ Code zur Berechnung der Entropie einer Nachricht:
 > ```
 > 
 
+
+### Was man verstanden haben sollte
+- Ich weiß wie Shannon den Begriff Information definiert hat.
+- Ich weiß wie man Information quantisieren kann und kenne die Einheit Bit.
+- Ich kann bei einem Problem (einer Fragestellung) anhand der Anzahl von Entscheidungsmöglichkeiten bestimmen, wie viel Bit an Informationen notwendig sind, um alle möglichen Lösungen bzw. Antworten abzudecken.

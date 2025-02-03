@@ -24,3 +24,8 @@ Alle Teilnehmenden waren in der Lage eines der Videos zu komprimieren und auf da
 #### Tafelbilder
 
 Fehlanzeige
+
+
+### Was man verstanden haben sollte
+- Ich weiß wie man das Tool `FFmpeg` verwendet und kann die einzelnen Parameter deuten.
+- Ich habe ein Gefühl dafür, wie aufwendig Videokompression ist.

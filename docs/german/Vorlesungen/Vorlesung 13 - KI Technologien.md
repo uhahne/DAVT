@@ -32,4 +32,9 @@ Die in den Unterlagen [[DAVT-10-KI.pdf]] verlinkten Seiten wurden gezeigt und be
 05.02. ab 14 Uhr Klausurvorbereitung im i0.15
 
 07.02. 09:45-11:15 Uhr, Klausur (aka Modulprüfung Digitale Medienproduktion) Raum I0.14
-  
+
+
+### Was man verstanden haben sollte
+- Ich habe eine grobe Vorstellung was ein GAN ist und weiß, welche Daten man benötigt um es zu trainieren.
+- Ich habe verstanden, wie Stable Diffusion funktioniert.
+- Ich habe gehört und gesehen, dass man inzwischen mit KI Methoden Audio- und Videodaten erzeugen kann, die von "echten" Aufnahmen nicht ohne Weiteres zu unterscheiden sind.

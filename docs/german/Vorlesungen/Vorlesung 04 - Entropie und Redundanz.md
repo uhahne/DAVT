@@ -77,3 +77,8 @@ Um auf eine Lösung mit reduzierter mittlerer Codelänge zu kommen, wurde der Ba
 In diese Codierung wird für das A nur ein Bit verwendet. Durch seine erhöhte Häufigkeit kann die zweite Nachricht daher im Mittel mit 1,75 Bit pro Zeichen dargestellt werden und man hat damit einen optimalen Code erzeugt.
 
 In der nächsten Vorlesung wird dann ein Algorithmus gesucht, der immer den optimalen Code erzeugt.
+
+### Was man verstanden haben sollte
+- Ich habe den Zusammenhang zwischen Informationsgehalt und Wahrscheinlichkeit des Auftretens eines Zeichens verstanden.
+- Ich bin in der Lage die Entropie einer Nachricht zu berechnen.
+- Ich kann eine Nachricht kodieren, weil ich verstanden habe was mit Codierung gemeint ist.

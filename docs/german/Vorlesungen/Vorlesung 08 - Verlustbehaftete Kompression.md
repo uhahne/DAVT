@@ -37,3 +37,7 @@ Der Begriff Codec wird meistens als Zusammenlegung der Wörter CoderDecoder verw
 
 ![[DAVT-08-intra_vs_inter.JPEG]]
 Man unterscheidet bei der Videokompression zwischen *intra* und *inter* frame Methoden. Also einmal innerhalb des selben Frames (intra) und auch zwischen verschiedenen Frames (inter). Es geht immer darum Bewegungen von Bildobjekten zu finden und diese als Motion Vector zu beschreiben anstatt die Pixeldaten des Objekts ein zweites Mal zu speichern. Man sucht also sich wiederholende Elemente sowohl im selben Bild (z.B. großflächig einfarbige Bereiche oder Muster) als auch in angrenzenden Frames, denn im Video von einer Szene ändert sich von Bild zu Bild in der Regel nicht viel.
+
+### Was man verstanden haben sollte
+- Ich kann mit dem Begriff Codec umgehen.
+- Ich verstehe die Unterscheidung zwischen *intra* und *inter* frame Methoden bei der Kompression und verstehe auch warum man es auch "spatial" bzw. "temporal" nennen kann.

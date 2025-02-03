@@ -30,3 +30,7 @@ Die Idee bei der Codierung die Differenzen zu nehmen, anstatt der eigentlichen W
 ![[DAVT-07-LZW.JPEG]]
 
 Die verschiedenen, aber sehr ähnlichen Kompressionsverfahren an der Tafel bzw. am Whiteboard.
+
+### Was man verstanden haben sollte
+- Ich kann zwischen verlustbehafteter und verlustfreier Kompression unterscheiden.
+- Ich habe verstanden, bei welchen Anwendungen Informationsverluste akzeptabel sind und bei welchen nicht.

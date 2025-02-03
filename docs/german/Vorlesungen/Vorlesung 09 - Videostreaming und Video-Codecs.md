@@ -26,3 +26,11 @@ Das [[DAVT-Aufgabenblatt07.pdf]] wird erst in der nächsten Vorlesung behandelt.
 
 #### Tafelbilder
 Fehlanzeige
+
+### Was man verstanden haben sollte
+- Mir sind JPEG und MPEG ein Begriff.
+- Mir ist klar, dass Videorohdaten viel zu groß sind um sinnvoll verteilt zu werden. Daher ist die Notwendigkeit von Codecs klar.
+- Ich kann verstehen, dass man für Video-Streaming andere Anforderungen an einen Codec hat, als beim Download.
+- Ich weiß was die drei Zahlen beim Chroma subsampling im J : a : b Schema bedeuten.
+- Ich kenne die Codecs H.264, H.265, AV1 und VP9 vom Namen her und kann sie chronologisch sortieren.
+- Ich habe verstanden welche Vorteile es Google bringt einen eigenen Codec zu entwickeln.

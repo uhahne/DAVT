@@ -50,4 +50,9 @@ Beginn der Lösung der Aufgabe 1 auf [[DAVT-Aufgabenblatt09.pdf]]
 22.1. GenAI (GAN, StableDiffusion, text2video)
 
 05.02. ab 14 Uhr Klausurvorbereitung im i0.15
-  
+
+### Was man verstanden haben sollte
+- Ich kenne Anwendungen, die Reed-Solomon Codes verwenden.
+- Ich habe das Prinzip von Reed-Solomon Codes verstanden und weiß was sie mit Galois-Körpern zu tun haben.
+- Ich weiß wie man anhand der Nullstellen ein Polynom definieren kann.
+- Wenn ich die Formel habe, kann ich Lagrange-Polynome aufstellen und damit rechnen.
